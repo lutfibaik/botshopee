@@ -11,3 +11,10 @@ hanya bisa berjalan di Windows
 catatan
 - hanya bisa menggunakan pembayaran seabank dan sopeepay
 - tidak untuk di perjual belikan
+
+
+hasil yang di dapat shopee mantul sale mei 2022
+
+https://github.com/abrekok/botshopee/blob/c3ba3e69f5cdc1d1d6fe315c757f04598a2fd041/hasil%20bot.png
+
+https://github.com/abrekok/botshopee/blob/c3ba3e69f5cdc1d1d6fe315c757f04598a2fd041/termos.png
