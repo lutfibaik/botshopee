@@ -15,6 +15,6 @@ catatan
 
 hasil yang di dapat shopee mantul sale mei 2022
 
-https://github.com/abrekok/botshopee/blob/c3ba3e69f5cdc1d1d6fe315c757f04598a2fd041/hasil%20bot.png
+https://github.com/abrekok/botshopee/blob/main/hasil bot.png
 
-https://github.com/abrekok/botshopee/blob/c3ba3e69f5cdc1d1d6fe315c757f04598a2fd041/termos.png
+https://github.com/abrekok/botshopee/blob/main/termos.png
